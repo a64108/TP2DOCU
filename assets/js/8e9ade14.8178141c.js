@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[2013],{2360:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/a6408/TP2DOCU/blog/tags/hola","allTagsPath":"/a6408/TP2DOCU/blog/tags","count":1}')}}]);
