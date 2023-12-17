@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'a64108', // Usually your GitHub org/user name.
+  organizationName: 'a64108,a70563', // Usually your GitHub org/user name.
   projectName: 'TP2DOCU', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
