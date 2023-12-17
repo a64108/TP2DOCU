@@ -10,12 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Serviço',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        OFICINA WINRAR, foi criada para ter o melhor serviço possivel. Um conjunto de possibilidades para a sua satisfação.
       </>
     ),
   },
