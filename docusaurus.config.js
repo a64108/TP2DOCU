@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OFICINA WINRAR',
-  tagline: 'Zipamos qualquer arranjo num instante!',
+  title: 'Oficina Winrar',
+  tagline: 'Zipamos qualquer serviço num instante!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'a64108,a70563', // Usually your GitHub org/user name.
+  organizationName: 'a64108, a70563', // Usually your GitHub org/user name.
   projectName: 'TP2DOCU', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Oficina WINRAR',
+        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -75,23 +75,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Oficina',
-
+            label: 'Tutorial',
           },
-          {to: '/pages', label: 'oficina', position: 'left'},
-        
+          //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'middle',
-            label: 'Cortesia',
-
-          },
-          {to: '/pages', label: 'cortesia', position: 'middle'},
-
-          {
-            href: 'https://www.facebook.com',
-            label: 'Facebook',
+            href: 'https://github.com/facebook/docusaurus',
+            label: 'GitHub',
             position: 'right',
           },
         ],
