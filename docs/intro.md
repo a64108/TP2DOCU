@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /pages/index.md
+slug: /index.md
 ---
 
 # Tutorial Intro
