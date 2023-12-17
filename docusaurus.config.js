@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Oficina WINRAR',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -75,12 +75,23 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Oficina',
+
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/pages', label: 'oficina', position: 'left'},
+        
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'middle',
+            label: 'Cortesia',
+
+          },
+          {to: '/pages', label: 'cortesia', position: 'middle'},
+
+          {
+            href: 'https://www.facebook.com',
+            label: 'Facebook',
             position: 'right',
           },
         ],
