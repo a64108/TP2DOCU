@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[7641],{7064:e=>{e.exports=JSON.parse('{"permalink":"/a6408/TP2DOCU/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
