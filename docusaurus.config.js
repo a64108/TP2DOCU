@@ -77,8 +77,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'pages',
+            sidebarId: 'oficina',
+            position: 'left',
+            label: 'Oficina',
+          },
           //{to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/pages/oficina', label: 'Oficina', position: 'left'},
+          //{to: '/pages/oficina', label: 'Oficina', position: 'left'}, REMOVER SENAO FUNCIONAR
       
           {
             href: 'https://github.com/facebook/docusaurus',
