@@ -79,7 +79,7 @@ const config = {
         //  },
 
           {
-            ref: 'https://a64108.github.io/TP2DOCU/oficina',
+            href: 'https://a64108.github.io/TP2DOCU/oficina',
             label: 'Oficina',
             position: 'left',
           },
