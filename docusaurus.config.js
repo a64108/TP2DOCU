@@ -79,7 +79,7 @@ const config = {
         //  },
 
           {
-            href: 'https://a64108.github.io/TP2DOCU/oficina',
+            to: 'pages/oficina',
             label: 'Oficina',
             position: 'left',
           },
@@ -92,7 +92,9 @@ const config = {
             href: 'https://a64108.github.io/TP2DOCU/recrutamento',
             label: 'Recrutamento',
             position: 'left',
-          },
+          }, 
+          
+    
           //{to: '/blog', label: 'Blog', position: 'left'},
           //{to: '/pages/oficina', label: 'Oficina', position: 'left'}, REMOVER SENAO FUNCIONAR
       

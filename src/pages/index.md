@@ -13,7 +13,7 @@
 + Serviços de mecânico.
 + Serviços de eletricista automóvel.
 + Faturas automatizadas
-+ Aluger de viaturas de cortesia.ç
++ Aluger de viaturas de cortesia.
 
 ## Localização:
 
