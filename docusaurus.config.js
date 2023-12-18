@@ -78,7 +78,7 @@ const config = {
             label: 'Tutorial',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/page', label: 'Index', position: 'left'},
+          {to: '/page/oficina', label: 'Oficina', position: 'left'},
       
           {
             href: 'https://github.com/facebook/docusaurus',
