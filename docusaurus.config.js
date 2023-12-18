@@ -71,17 +71,27 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+         // {
+        //  type: 'docSidebar',
+        //  sidebarId: 'tutorialSidebar',
+        //  position: 'left',
+        //  label: 'Tutorial',
+        //  },
+
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            href: 'https://a64108.github.io/TP2DOCU/oficina',
+            label: 'Oficina',
             position: 'left',
-            label: 'Tutorial',
           },
           {
-            type: 'pages',
-            sidebarId: 'oficina',
+            href: 'https://a64108.github.io/TP2DOCU/cortesia',
+            label: 'Cortesia',
             position: 'left',
-            label: 'Oficina',
+          },
+          {
+            href: 'https://a64108.github.io/TP2DOCU/recrutamento',
+            label: 'Recrutamento',
+            position: 'left',
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           //{to: '/pages/oficina', label: 'Oficina', position: 'left'}, REMOVER SENAO FUNCIONAR
