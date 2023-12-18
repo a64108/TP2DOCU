@@ -79,7 +79,7 @@ const config = {
         //  },
 
           {
-            to: 'pages/oficina',
+            to: '/pages/oficina',
             label: 'Oficina',
             position: 'left',
           },
