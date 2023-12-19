@@ -97,7 +97,7 @@ const config = {
             items: [
               {
                 label: 'Oficina',
-                to: '/pages/oficina',
+                to: 'oficina',
               },
             ],
           },
