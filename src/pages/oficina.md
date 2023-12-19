@@ -21,7 +21,7 @@
 
 ## Preçário de serviços de rotina:
 
-|  Preço | Description |
+|  Preço | Descrição |
 | ------ | ----------- |
 | 25,00  | Alinhamento de direção.|
 | 50,00  | Troca de pneu. |
