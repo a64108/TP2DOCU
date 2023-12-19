@@ -14,10 +14,10 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        OFICINA WINRAR, foi criada para ter o melhor serviço possivel. Um conjunto de possibilidades para a sua satisfação.
+        <a href="https://a64108.github.io/TP2DOCU/oficina">OFICINA WINRAR</a>, foi criada para ter o melhor serviço possivel. Um conjunto de possibilidades para a sua satisfação.
       </>
     ),
-  },
+  }
   {
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
