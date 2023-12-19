@@ -97,6 +97,7 @@ const config = {
     
           //{to: '/blog', label: 'Blog', position: 'left'},
           //{to: '/pages/oficina', label: 'Oficina', position: 'left'}, REMOVER SENAO FUNCIONAR
+          {to: 'oficina', label: 'Oficina', position: 'left'},
       
           {
             href: 'https://github.com/facebook/docusaurus',
