@@ -99,35 +99,39 @@ const config = {
                 label: 'Oficina',
                 to: 'oficina',
               },
+              {
+                label: 'Cortesia',
+                to: 'cortesia',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Redes Sociais',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Informação',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Contatos',
+                to: 'contatos',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Oficina de Faro',
+                href: 'https://www.google.com/search?q=37.011698987033604%2C+-7.921883972344417&rlz=1C1ONGR_pt-PTPT1017PT1017&oq=37.011698987033604%2C+-7.921883972344417&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEHMTkxajBqNKgCALACAA&sourceid=chrome&ie=UTF-8',
               },
             ],
           },
