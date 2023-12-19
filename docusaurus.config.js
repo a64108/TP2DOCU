@@ -78,26 +78,9 @@ const config = {
         //  label: 'Tutorial',
         //  },
 
-          {
-            href: 'https://a64108.github.io/TP2DOCU/oficina',
-            label: 'Oficina',
-            position: 'left',
-          },
-          {
-            href: 'https://a64108.github.io/TP2DOCU/cortesia',
-            label: 'Cortesia',
-            position: 'left',
-          },
-          {
-            href: 'https://a64108.github.io/TP2DOCU/recrutamento',
-            label: 'Recrutamento',
-            position: 'left',
-          }, 
-          
-    
-          //{to: '/blog', label: 'Blog', position: 'left'},
-          //{to: '/pages/oficina', label: 'Oficina', position: 'left'}, REMOVER SENAO FUNCIONAR
           {to: 'oficina', label: 'Oficina', position: 'left'},
+          {to: 'cortesia', label: 'Cortesia', position: 'left'},
+          {to: 'recrutamento', label: 'Recrutamento', position: 'left'},
       
           {
             href: 'https://github.com/facebook/docusaurus',
