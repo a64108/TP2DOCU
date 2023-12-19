@@ -10,11 +10,13 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Oficina',
+    title: (
+      <a href="https://a64108.github.io/TP2DOCU/oficina">Oficina</a>
+    ),
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        <a href="https://a64108.github.io/TP2DOCU/oficina">OFICINA WINRAR</a>, foi criada para ter o melhor serviço possivel. Um conjunto de possibilidades para a sua satisfação.
+        OFICINA WINRAR, foi criada para ter o melhor serviço possível. Um conjunto de possibilidades para a sua satisfação.
       </>
     ),
   }
